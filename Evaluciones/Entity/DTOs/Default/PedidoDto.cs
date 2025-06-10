@@ -13,6 +13,7 @@ namespace Entity.DTOs.Default
         public DateTime FechaPedido { get; set; }
 
         public int ClienteId { get; set; }
+        
         public int ProductoId { get; set; }
     }
 }

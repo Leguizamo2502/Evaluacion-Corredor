@@ -3,64 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\interfaces\\implements\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\interfaces\\implements\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\repository\\adatageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\repository\\adatageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\interfaces\\base\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\interfaces\\base\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\select\\pedidoselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\select\\pedidoselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\select\\productoselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\select\\productoselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\select\\clienteselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\select\\clienteselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\default\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\controllers\\implements\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\domain\\models\\implements\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\domain\\models\\implements\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\domain\\models\\implements\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\default\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\domain\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\services\\swaggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\services\\swaggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\jwtcustom\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\jwtcustom\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\controllers\\implements\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\services\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\services\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\interfaces\\jwt\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\interfaces\\jwt\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\interfaces\\implements\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\interfaces\\implements\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\services\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\services\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC172AEF-7F26-47DF-966F-B875475D88FC}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\repository\\adatageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\repository\\adatageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\data\\interfaces\\implements\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B91DD9-FC80-4964-9085-3CEA8104EFFE}|Data\\Data.csproj|solutionrelative:data\\interfaces\\implements\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\controllers\\implements\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54BF7C-6E6C-456E-A5B0-1816B073EDE1}|Web\\Web.csproj|solutionrelative:web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\interfaces\\implements\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\interfaces\\implements\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\interfaces\\implements\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\interfaces\\implements\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|c:\\users\\nitro\\documentos\\evaluacion\\evaluacion-corredor\\evaluciones\\business\\interfaces\\basic\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C298A96B-55FF-4950-B631-E281860467B2}|Business\\Business.csproj|solutionrelative:business\\interfaces\\basic\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,196 +135,365 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Web\\AutoMapper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Web\\AutoMapper\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:35:38.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PedidoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\PedidoRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Services\\PedidoRepository.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\PedidoRepository.cs",
-              "RelativeToolTip": "Data\\Services\\PedidoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:25:06.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\DataGeneric.cs",
-              "RelativeDocumentMoniker": "Data\\Repository\\DataGeneric.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\DataGeneric.cs",
-              "RelativeToolTip": "Data\\Repository\\DataGeneric.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:24:45.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ADataGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\ADataGeneric.cs",
-              "RelativeDocumentMoniker": "Data\\Repository\\ADataGeneric.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\ADataGeneric.cs",
-              "RelativeToolTip": "Data\\Repository\\ADataGeneric.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:24:39.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPedidoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IPedidoRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\Implements\\IPedidoRepository.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IPedidoRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\Implements\\IPedidoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:24:09.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Base\\IData.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\Base\\IData.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Base\\IData.cs",
-              "RelativeToolTip": "Data\\Interfaces\\Base\\IData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:23:43.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductoSelect.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\ProductoSelect.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Select\\ProductoSelect.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\ProductoSelect.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Select\\ProductoSelect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:22:17.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClienteSelect.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\ClienteSelect.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Select\\ClienteSelect.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\ClienteSelect.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Select\\ClienteSelect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:21:53.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Base\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Base\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Base\\BaseDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Base\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:21:18.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PedidoSelect.cs",
               "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\PedidoSelect.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\Select\\PedidoSelect.cs",
               "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Select\\PedidoSelect.cs",
               "RelativeToolTip": "Entity\\DTOs\\Select\\PedidoSelect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:20:28.625Z",
+              "WhenOpened": "2025-06-10T23:15:58.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductoDto.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ProductoDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\ProductoDto.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ProductoDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Default\\ProductoDto.cs",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Producto.cs",
+              "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Producto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Producto.cs",
+              "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:20:12.668Z",
+              "WhenOpened": "2025-06-10T23:12:42.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PedidoDto.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\PedidoDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\PedidoDto.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\PedidoDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Default\\PedidoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Cliente.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Cliente.cs",
+              "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:20:12.07Z",
+              "WhenOpened": "2025-06-10T23:12:41.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ClienteDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\ClienteDto.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ClienteDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\Default\\ClienteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:20:11.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Pedido.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Pedido.cs",
               "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Implements\\Pedido.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:19:48.98Z",
+              "WhenOpened": "2025-06-10T23:12:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\PedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:10:30.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwaggerService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\SwaggerService.cs",
+              "RelativeDocumentMoniker": "Web\\Services\\SwaggerService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\SwaggerService.cs",
+              "RelativeToolTip": "Web\\Services\\SwaggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:55:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:39:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Web\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\JwtService.cs",
+              "RelativeToolTip": "Web\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:38:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\ClienteRepository.cs",
+              "RelativeToolTip": "Data\\Services\\ClienteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:34:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessBasic.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessBasic.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessBasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:33:15.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
-              "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Base\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
-              "RelativeToolTip": "Entity\\Domain\\Models\\Base\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\Implements\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IClienteRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\Implements\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T20:56:38.655Z",
+              "WhenOpened": "2025-06-10T22:30:47.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\JwtCustom\\TokenBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\JwtCustom\\TokenBusiness.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\JwtCustom\\TokenBusiness.cs",
+              "RelativeToolTip": "Business\\JwtCustom\\TokenBusiness.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:29:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Jwt\\IToken.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\Jwt\\IToken.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Jwt\\IToken.cs",
+              "RelativeToolTip": "Business\\Interfaces\\Jwt\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:28:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\Default\\ClienteDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:27:51.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Entity\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:27:32.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ADataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\ADataGeneric.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\ADataGeneric.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Repository\\ADataGeneric.cs",
+              "RelativeToolTip": "Data\\Repository\\ADataGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:27:02.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\Implements\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Interfaces\\Implements\\IPedidoRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\Implements\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:26:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Data\\Services\\PedidoRepository.cs",
+              "RelativeToolTip": "Data\\Services\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:21:54.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\PedidoController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\PedidoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:19:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\ProductoController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:18:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Business\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:17:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Implements\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\Implements\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Implements\\IPedidoService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\Implements\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:14:29.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Basic\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\Basic\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Basic\\IBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\Basic\\IBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:14:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Implements\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\Implements\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Business\\Interfaces\\Implements\\IClienteService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\Implements\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:14:20.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\AppService.cs",
+              "RelativeDocumentMoniker": "Web\\Services\\AppService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Services\\AppService.cs",
+              "RelativeToolTip": "Web\\Services\\AppService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:13:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:13:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:10:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documentos\\Evaluacion\\Evaluacion-Corredor\\Evaluciones\\Web\\Controllers\\Implements\\ClienteController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:02:21.983Z",
               "EditorCaption": ""
             }
           ]

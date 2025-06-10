@@ -11,5 +11,5 @@ namespace Data.Interfaces.Implements
     public interface IPedidoRepository : IData<Pedido>
     {
     }
-    }
+    
 }

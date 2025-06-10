@@ -6,6 +6,7 @@ C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Deb
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Web.runtimeconfig.json
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Web.dll
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Web.pdb
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Humanizer.dll
@@ -169,3 +170,9 @@ C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\obj\Deb
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\obj\Debug\net8.0\Web.pdb
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
 C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\obj\Debug\net8.0\ref\Web.dll
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Business.dll
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Data.dll
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Utilities.dll
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Business.pdb
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Data.pdb
+C:\Users\NITRO\Documentos\Evaluacion\Evaluacion-Corredor\Evaluciones\Web\bin\Debug\net8.0\Utilities.pdb
